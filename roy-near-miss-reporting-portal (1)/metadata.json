@@ -1,0 +1,8 @@
+{
+  "name": "ROY Near-Miss Reporting Portal",
+  "description": "Online safety reporting and EHS workflow portal for fleet drivers and staff to flag close calls, track corrective actions, and manage safety master data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
